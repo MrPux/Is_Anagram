@@ -11,3 +11,5 @@ def is_anagram(a, b):
 print(is_anagram("typhoon", "opython")) #True
 print(is_anagram("typhozon", "opython")) #False
 print(is_anagram("typhhozon", "opython")) #False
+
+print(is_anagram("Alice", "Bob")) #False
